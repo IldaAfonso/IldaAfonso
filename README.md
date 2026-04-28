@@ -133,7 +133,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 <br>
 <br>
 
-![Anurang's GitHub stats]("https://github-readme-stats.vercel.app/api?username=IldaAfonso&show_icons=true&theme=tokyonight)
 <p>
   <img 
     align="left" 
