@@ -2,7 +2,7 @@
 
 **Analista de Dados**
 
-Olá, sou a Ilda Afonso, tenho 23 anos sou de São Paulo capital. Atualmento, estou cursando Análise e Desenvolvimento de Sistemas na Fiap. Sou uma apaixonada por Tecnologia e compartilho um pouco disso no meu perfil do Instagram "[Myna Code](https://www.instagram.com/mynacode/)", onde compartilho um pouco da minha jornada como estudante, eventos, rotina de estudos etc.
+Olá, sou a Ilda Afonso, tenho 23 anos sou de São Paulo capital. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fiap. Sou uma apaixonada por Tecnologia e compartilho um pouco disso no meu perfil do Instagram "[Myna Code](https://www.instagram.com/mynacode/)", onde compartilho um pouco da minha jornada como estudante, eventos, rotina de estudos etc.
 
 <p align="left">
     <a href="www.youtube.com/@immussungayi">
