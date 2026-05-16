@@ -66,15 +66,7 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 
-<img align="left" 
-alt="R"
-title="R"
-width="30px" 
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
-          
-          
-
+        
 <img 
 align="left" 
 alt="CSS"
@@ -92,8 +84,6 @@ width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
-          
-
 <img 
 align="left" 
 alt="Vite"
